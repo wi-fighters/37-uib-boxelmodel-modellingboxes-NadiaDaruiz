@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    width: 900px;
+    margin: 0 auto;
+}
+
+header {
+    height: 100px;
+    background-color: lightseagreen;
+}
+
+aside {
+    height: 400px;
+    width: 20%;
+    background-color: lightpink;
+    float: left;
+}
+
+main {
+    height: 400px;
+    background-color: lightblue;
+}
+
+footer {
+    height: 100px;
+    background-color: linen;
+
+}
