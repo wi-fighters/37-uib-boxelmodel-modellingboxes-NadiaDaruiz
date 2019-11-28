@@ -17,7 +17,7 @@ header {
 aside {
     height: 400px;
     width: 20%;
-    background-color: lightpink;
+    background-color: rgb(179, 119, 127);
     float: left;
 }
 
@@ -28,6 +28,6 @@ main {
 
 footer {
     height: 100px;
-    background-color: linen;
+    background-color: rgb(184, 139, 167);
 
 }
